@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Always Capsize</title>
+    <link href="https://trooja.github.io/Webpage/feed.xml" rel="self" />
+    <link href="https://trooja.github.io/Webpage" />
+    <updated>2022-11-26T15:24:00+01:00</updated>
+    <author>
+        <name>Simon Täng</name>
+    </author>
+    <id>https://trooja.github.io/Webpage</id>
+
+    <entry>
+        <title>This is a test post!</title>
+        <author>
+            <name>Simon Täng</name>
+        </author>
+        <link href="https://trooja.github.io/Webpage/this-is-a-test-post/index.html"/>
+        <id>https://trooja.github.io/Webpage/this-is-a-test-post/index.html</id>
+        <media:content url="https://trooja.github.io/Webpage/media/posts/1/cat-2.JPG" medium="image" />
+
+        <updated>2022-11-26T15:24:00+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://trooja.github.io/Webpage/media/posts/1/cat-2.JPG" alt="" />
+                    This is a test post with pictures and videos in order to try it out. Youtube chanel
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://trooja.github.io/Webpage/media/posts/1/cat-2.JPG" class="type:primaryImage" alt="" /></p>
+                <p>This is a test post with pictures and videos in order to try it out. </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://trooja.github.io/Webpage/media/posts/1/gallery/cat.JPG" data-size="4608x3072"><img loading="lazy" src="https://trooja.github.io/Webpage/media/posts/1/gallery/cat-thumbnail.JPG" alt="Cat" width="720" height="480"></a>
+<figcaption>This is a cat!</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://trooja.github.io/Webpage/media/posts/1/gallery/space_stars_clouds-2560x1440.jpg" data-size="2560x1440"><img loading="lazy" src="https://trooja.github.io/Webpage/media/posts/1/gallery/space_stars_clouds-2560x1440-thumbnail.jpg" alt="Space" width="720" height="405"></a>
+<figcaption>This is a illustrated picture of space.</figcaption>
+</figure>
+</div></div>
+<p><a href="https://www.youtube.com/@HerrDavidTang" target="_blank" rel="noopener noreferrer">Youtube chanel</a></p>
+<figure class="post__video"><video loading="lazy" width="300" height="150" controls="controls" data-mce-fragment="1">
+<source src="file:///home/trooja/Videos/20210730_154654A.mp4" type="video/mp4" /></video></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
