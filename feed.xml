@@ -3,10 +3,30 @@
     <title>Ezzie</title>
     <link href="https://trooja.github.io/Webpage/feed.xml" rel="self" />
     <link href="https://trooja.github.io/Webpage" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2022-11-27T10:45:09+01:00</updated>
     <author>
         <name>Simon Täng</name>
     </author>
     <id>https://trooja.github.io/Webpage</id>
 
+    <entry>
+        <title>Hello World!</title>
+        <author>
+            <name>Simon Täng</name>
+        </author>
+        <link href="https://trooja.github.io/Webpage/hello-world.html"/>
+        <id>https://trooja.github.io/Webpage/hello-world.html</id>
+
+        <updated>2022-11-27T10:45:09+01:00</updated>
+            <summary>
+                <![CDATA[
+                    This is a picture of Ezzie!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is a picture of Ezzie! <figure class="post__image post__image--full"><img loading="lazy"  src="https://trooja.github.io/Webpage/media/posts/1/cat.JPG" alt="" width="4608" height="3072" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://trooja.github.io/Webpage/media/posts/1/responsive/cat-xs.JPG 300w ,https://trooja.github.io/Webpage/media/posts/1/responsive/cat-sm.JPG 480w ,https://trooja.github.io/Webpage/media/posts/1/responsive/cat-md.JPG 768w"></figure>
+            ]]>
+        </content>
+    </entry>
 </feed>
