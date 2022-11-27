@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Ezzie</title>
-    <link href="https://trooja.github.io/Webpage/feed.xml" rel="self" />
-    <link href="https://trooja.github.io/Webpage" />
+    <link href="https://ezzie.org/feed.xml" rel="self" />
+    <link href="https://ezzie.org" />
     <updated>2022-11-27T10:45:09+01:00</updated>
     <author>
         <name>Simon Täng</name>
     </author>
-    <id>https://trooja.github.io/Webpage</id>
+    <id>https://ezzie.org</id>
 
     <entry>
         <title>Hello World!</title>
         <author>
             <name>Simon Täng</name>
         </author>
-        <link href="https://trooja.github.io/Webpage/hello-world.html"/>
-        <id>https://trooja.github.io/Webpage/hello-world.html</id>
+        <link href="https://ezzie.org/hello-world.html"/>
+        <id>https://ezzie.org/hello-world.html</id>
 
         <updated>2022-11-27T10:45:09+01:00</updated>
             <summary>
@@ -25,7 +25,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>This is a picture of Ezzie! <figure class="post__image post__image--full"><img loading="lazy"  src="https://trooja.github.io/Webpage/media/posts/1/cat.JPG" alt="" width="4608" height="3072" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://trooja.github.io/Webpage/media/posts/1/responsive/cat-xs.JPG 300w ,https://trooja.github.io/Webpage/media/posts/1/responsive/cat-sm.JPG 480w ,https://trooja.github.io/Webpage/media/posts/1/responsive/cat-md.JPG 768w"></figure>
+                <p>This is a picture of Ezzie! <figure class="post__image post__image--full"><img loading="lazy"  src="https://ezzie.org/media/posts/1/cat.JPG" alt="" width="4608" height="3072" sizes="100vw" srcset="https://ezzie.org/media/posts/1/responsive/cat-xs.JPG 300w ,https://ezzie.org/media/posts/1/responsive/cat-sm.JPG 480w ,https://ezzie.org/media/posts/1/responsive/cat-md.JPG 768w ,https://ezzie.org/media/posts/1/responsive/cat-lg.JPG 1024w ,https://ezzie.org/media/posts/1/responsive/cat-xl.JPG 1360w ,https://ezzie.org/media/posts/1/responsive/cat-2xl.JPG 1600w"></figure>
             ]]>
         </content>
     </entry>

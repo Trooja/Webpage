@@ -2,19 +2,19 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Ezzie",
     "description": "",
-    "home_page_url": "https://trooja.github.io/Webpage",
-    "feed_url": "https://trooja.github.io/Webpage/feed.json",
+    "home_page_url": "https://ezzie.org",
+    "feed_url": "https://ezzie.org/feed.json",
     "user_comment": "",
     "author": {
         "name": "Simon Täng"
     },
     "items": [
         {
-            "id": "https://trooja.github.io/Webpage/hello-world.html",
-            "url": "https://trooja.github.io/Webpage/hello-world.html",
+            "id": "https://ezzie.org/hello-world.html",
+            "url": "https://ezzie.org/hello-world.html",
             "title": "Hello World!",
             "summary": "This is a picture of Ezzie!",
-            "content_html": "<p>This is a picture of Ezzie! <figure class=\"post__image post__image--full\"><img loading=\"lazy\"  src=\"https://trooja.github.io/Webpage/media/posts/1/cat.JPG\" alt=\"\" width=\"4608\" height=\"3072\" sizes=\"(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)\" srcset=\"https://trooja.github.io/Webpage/media/posts/1/responsive/cat-xs.JPG 300w ,https://trooja.github.io/Webpage/media/posts/1/responsive/cat-sm.JPG 480w ,https://trooja.github.io/Webpage/media/posts/1/responsive/cat-md.JPG 768w\"></figure>",
+            "content_html": "<p>This is a picture of Ezzie! <figure class=\"post__image post__image--full\"><img loading=\"lazy\"  src=\"https://ezzie.org/media/posts/1/cat.JPG\" alt=\"\" width=\"4608\" height=\"3072\" sizes=\"100vw\" srcset=\"https://ezzie.org/media/posts/1/responsive/cat-xs.JPG 300w ,https://ezzie.org/media/posts/1/responsive/cat-sm.JPG 480w ,https://ezzie.org/media/posts/1/responsive/cat-md.JPG 768w ,https://ezzie.org/media/posts/1/responsive/cat-lg.JPG 1024w ,https://ezzie.org/media/posts/1/responsive/cat-xl.JPG 1360w ,https://ezzie.org/media/posts/1/responsive/cat-2xl.JPG 1600w\"></figure>",
             "author": {
                 "name": "Simon Täng"
             },
