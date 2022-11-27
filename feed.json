@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Always Capsize",
+    "title": "Ezzie",
     "description": "",
     "home_page_url": "https://trooja.github.io/Webpage",
     "feed_url": "https://trooja.github.io/Webpage/feed.json",
@@ -9,20 +9,5 @@
         "name": "Simon Täng"
     },
     "items": [
-        {
-            "id": "https://trooja.github.io/Webpage/this-is-a-test-post/index.html",
-            "url": "https://trooja.github.io/Webpage/this-is-a-test-post/index.html",
-            "title": "This is a test post!",
-            "summary": "This is a test post with pictures and videos in order to try it out. Youtube chanel",
-            "content_html": "<p>This is a test post with pictures and videos in order to try it out. </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://trooja.github.io/Webpage/media/posts/1/gallery/cat.JPG\" data-size=\"4608x3072\"><img loading=\"lazy\" src=\"https://trooja.github.io/Webpage/media/posts/1/gallery/cat-thumbnail.JPG\" alt=\"Cat\" width=\"720\" height=\"480\"></a>\n<figcaption>This is a cat!</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://trooja.github.io/Webpage/media/posts/1/gallery/space_stars_clouds-2560x1440.jpg\" data-size=\"2560x1440\"><img loading=\"lazy\" src=\"https://trooja.github.io/Webpage/media/posts/1/gallery/space_stars_clouds-2560x1440-thumbnail.jpg\" alt=\"Space\" width=\"720\" height=\"405\"></a>\n<figcaption>This is a illustrated picture of space.</figcaption>\n</figure>\n</div></div>\n<p><a href=\"https://www.youtube.com/@HerrDavidTang\" target=\"_blank\" rel=\"noopener noreferrer\">Youtube chanel</a></p>\n<figure class=\"post__video\"><video loading=\"lazy\" width=\"300\" height=\"150\" controls=\"controls\" data-mce-fragment=\"1\">\n<source src=\"file:///home/trooja/Videos/20210730_154654A.mp4\" type=\"video/mp4\" /></video></figure>",
-            "image": "https://trooja.github.io/Webpage/media/posts/1/cat-2.JPG",
-            "author": {
-                "name": "Simon Täng"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-11-26T12:46:14+01:00",
-            "date_modified": "2022-11-26T15:24:00+01:00"
-        }
     ]
 }
