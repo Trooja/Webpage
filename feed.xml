@@ -3,7 +3,7 @@
     <title>Ezzie</title>
     <link href="https://ezzie.org/feed.xml" rel="self" />
     <link href="https://ezzie.org" />
-    <updated>2022-11-27T10:45:09+01:00</updated>
+    <updated>2022-11-27T10:59:39+01:00</updated>
     <author>
         <name>Simon Täng</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://ezzie.org/hello-world.html"/>
         <id>https://ezzie.org/hello-world.html</id>
 
-        <updated>2022-11-27T10:45:09+01:00</updated>
+        <updated>2022-11-27T10:59:39+01:00</updated>
             <summary>
                 <![CDATA[
                     This is a picture of Ezzie!
@@ -25,7 +25,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>This is a picture of Ezzie! <figure class="post__image post__image--full"><img loading="lazy"  src="https://ezzie.org/media/posts/1/cat.JPG" alt="" width="4608" height="3072" sizes="100vw" srcset="https://ezzie.org/media/posts/1/responsive/cat-xs.JPG 300w ,https://ezzie.org/media/posts/1/responsive/cat-sm.JPG 480w ,https://ezzie.org/media/posts/1/responsive/cat-md.JPG 768w ,https://ezzie.org/media/posts/1/responsive/cat-lg.JPG 1024w ,https://ezzie.org/media/posts/1/responsive/cat-xl.JPG 1360w ,https://ezzie.org/media/posts/1/responsive/cat-2xl.JPG 1600w"></figure>
+                <p>This is a picture of Ezzie! <figure class="post__image"><img loading="lazy"  src="https://ezzie.org/media/posts/1/cat-2.JPG" alt="" width="4608" height="3072" sizes="100vw" srcset="https://ezzie.org/media/posts/1/responsive/cat-2-xs.JPG 300w ,https://ezzie.org/media/posts/1/responsive/cat-2-sm.JPG 480w ,https://ezzie.org/media/posts/1/responsive/cat-2-md.JPG 768w ,https://ezzie.org/media/posts/1/responsive/cat-2-lg.JPG 1024w ,https://ezzie.org/media/posts/1/responsive/cat-2-xl.JPG 1360w ,https://ezzie.org/media/posts/1/responsive/cat-2-2xl.JPG 1600w"></figure>
             ]]>
         </content>
     </entry>
