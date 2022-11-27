@@ -3,7 +3,7 @@
     <title>Ezzie</title>
     <link href="https://ezzie.org/feed.xml" rel="self" />
     <link href="https://ezzie.org" />
-    <updated>2022-11-27T10:59:39+01:00</updated>
+    <updated>2022-11-27T11:06:36+01:00</updated>
     <author>
         <name>Simon Täng</name>
     </author>
@@ -16,16 +16,25 @@
         </author>
         <link href="https://ezzie.org/hello-world.html"/>
         <id>https://ezzie.org/hello-world.html</id>
+        <media:content url="https://ezzie.org/media/posts/1/cat.JPG" medium="image" />
+            <category term="#HelloWorld"/>
 
-        <updated>2022-11-27T10:59:39+01:00</updated>
+        <updated>2022-11-27T11:06:36+01:00</updated>
             <summary>
                 <![CDATA[
-                    This is a picture of Ezzie!
+                        <img src="https://ezzie.org/media/posts/1/cat.JPG" alt="" />
+                    This is a picture of Ezzie! This is a link! DavidYoutube
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>This is a picture of Ezzie! <figure class="post__image"><img loading="lazy"  src="https://ezzie.org/media/posts/1/cat-2.JPG" alt="" width="4608" height="3072" sizes="100vw" srcset="https://ezzie.org/media/posts/1/responsive/cat-2-xs.JPG 300w ,https://ezzie.org/media/posts/1/responsive/cat-2-sm.JPG 480w ,https://ezzie.org/media/posts/1/responsive/cat-2-md.JPG 768w ,https://ezzie.org/media/posts/1/responsive/cat-2-lg.JPG 1024w ,https://ezzie.org/media/posts/1/responsive/cat-2-xl.JPG 1360w ,https://ezzie.org/media/posts/1/responsive/cat-2-2xl.JPG 1600w"></figure>
+                    <p><img src="https://ezzie.org/media/posts/1/cat.JPG" class="type:primaryImage" alt="" /></p>
+                <p>This is a picture of Ezzie! </p>
+<figure class="post__image"><img loading="lazy"  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal); outline: 3px solid rgba(var(--color-primary-rgb), 0.55)  !important;" src="https://ezzie.org/media/posts/1/cat-3.JPG" alt="" width="4608" height="3072" sizes="100vw" srcset="https://ezzie.org/media/posts/1/responsive/cat-3-xs.JPG 300w ,https://ezzie.org/media/posts/1/responsive/cat-3-sm.JPG 480w ,https://ezzie.org/media/posts/1/responsive/cat-3-md.JPG 768w ,https://ezzie.org/media/posts/1/responsive/cat-3-lg.JPG 1024w ,https://ezzie.org/media/posts/1/responsive/cat-3-xl.JPG 1360w ,https://ezzie.org/media/posts/1/responsive/cat-3-2xl.JPG 1600w"></figure>This is a video!</p>
+<figure class="post__video"><video loading="lazy" width="300" height="150" controls="controls" data-mce-fragment="1">
+<source src="file:///home/trooja/Videos/20210730_154654A.mp4" type="video/mp4" /></video></figure>
+<p>This is a link!</p>
+<p><a href="https://www.youtube.com/@HerrDavidTang" target="_blank" rel="nofollow noopener noreferrer">DavidYoutube</a></p>
             ]]>
         </content>
     </entry>
