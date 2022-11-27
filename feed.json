@@ -14,14 +14,14 @@
             "url": "https://ezzie.org/video-link.html",
             "title": "Video + Link",
             "summary": "This is a video! This is a link! DavidYoutube",
-            "content_html": "<p>This is a video!</p>\n<figure class=\"post__video\"><video loading=\"lazy\" width=\"300\" height=\"150\" controls=\"controls\" data-mce-fragment=\"1\">\n<source src=\"file:///home/trooja/Videos/20210730_154654A.mp4\" type=\"video/mp4\" /></video></figure>\n<p>This is a link!</p>\n<p><a href=\"https://www.youtube.com/@HerrDavidTang\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">DavidYoutube</a></p>",
+            "content_html": "<p>This is a video!</p>\n<figure class=\"post__video\"><video loading=\"lazy\" width=\"694\" height=\"347\" style=\"width: 694px; height: 347px;\" controls=\"controls\" data-mce-fragment=\"1\">\n<source src=\"file:///home/trooja/Videos/20210730_154654A.mp4\" type=\"video/mp4\" /></video></figure>\n<p>This is a link!</p>\n<p><a href=\"https://www.youtube.com/@HerrDavidTang\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">DavidYoutube</a></p>",
             "author": {
                 "name": "Simon Täng"
             },
             "tags": [
             ],
             "date_published": "2022-11-27T11:09:06+01:00",
-            "date_modified": "2022-11-27T11:09:06+01:00"
+            "date_modified": "2022-11-27T11:11:55+01:00"
         },
         {
             "id": "https://ezzie.org/hello-world.html",
