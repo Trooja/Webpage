@@ -3,7 +3,7 @@
     <title>Ezzie</title>
     <link href="https://ezzie.org/feed.xml" rel="self" />
     <link href="https://ezzie.org" />
-    <updated>2022-11-27T11:11:55+01:00</updated>
+    <updated>2022-11-27T11:17:13+01:00</updated>
     <author>
         <name>Simon Täng</name>
     </author>
@@ -16,19 +16,21 @@
         </author>
         <link href="https://ezzie.org/video-link.html"/>
         <id>https://ezzie.org/video-link.html</id>
+        <media:content url="https://ezzie.org/media/posts/2/space_stars_clouds-2560x1440.jpg" medium="image" />
 
-        <updated>2022-11-27T11:11:55+01:00</updated>
+        <updated>2022-11-27T11:17:13+01:00</updated>
             <summary>
                 <![CDATA[
-                    This is a video! This is a link! DavidYoutube
+                        <img src="https://ezzie.org/media/posts/2/space_stars_clouds-2560x1440.jpg" alt="" />
+                    This is a video! DavidYoutube
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://ezzie.org/media/posts/2/space_stars_clouds-2560x1440.jpg" class="type:primaryImage" alt="" /></p>
                 <p>This is a video!</p>
-<figure class="post__video"><video loading="lazy" width="694" height="347" style="width: 694px; height: 347px;" controls="controls" data-mce-fragment="1">
-<source src="file:///home/trooja/Videos/20210730_154654A.mp4" type="video/mp4" /></video></figure>
-<p>This is a link!</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/IfY9Nz-xMd8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></figure>
+<figure class="post__video">This is a link!</figure>
 <p><a href="https://www.youtube.com/@HerrDavidTang" target="_blank" rel="nofollow noopener noreferrer">DavidYoutube</a></p>
             ]]>
         </content>
